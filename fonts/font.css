@@ -1,0 +1,33 @@
+@font-face{
+font-family:Display-Regular;
+src: url(SF-Pro-Display-Regular.ttf);
+}
+@font-face{
+font-family:Display-Medium;
+src: url(SF-Pro-Display-Medium.ttf);
+font-weight: 500;
+}
+@font-face{
+font-family:Display-Bold;
+src: url(SF-Pro-Display-Bold.ttf);
+font-weight: 700;
+}
+@font-face{
+font-family:Display-Semibold;
+src: url(SF-Pro-Display-Semibold.ttf);
+font-weight: 600;
+}
+@font-face{
+font-family:Mont-Regular;
+src: url(Mont-Regular.ttf);
+}
+@font-face{
+font-family:Mont-Bold;
+src: url(Mont-Bold.ttf);
+font-weight: 700;
+}
+@font-face{
+font-family:Mont-Semibold;
+src: url(Mont-SemiBold.ttf);
+font-weight: 600;
+}
